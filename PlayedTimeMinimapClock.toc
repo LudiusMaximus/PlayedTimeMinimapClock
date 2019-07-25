@@ -1,0 +1,10 @@
+## Interface: 80200
+## Title: PlayedTimeMinimapClock
+## Author: LudiusMaximus
+## Notes: Adds the Broker_PlayedTime to the Minimap Clock.
+## RequiredDeps: Broker_PlayedTime
+## Version: 1.0
+## X-Donate: PayPal:ludiusmaximus@gmail.com
+## X-License: The MIT License (MIT)
+
+main.lua
