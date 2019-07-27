@@ -1,7 +1,7 @@
 ## Interface: 80200
 ## Title: PlayedTimeMinimapClock
 ## Author: LudiusMaximus
-## Notes: Adds the Broker_PlayedTime to the Minimap Clock.
+## Notes: Adds the Broker_PlayedTime info to the Minimap clock tooltip.
 ## RequiredDeps: Broker_PlayedTime
 ## Version: 1.0
 ## X-Donate: PayPal:ludiusmaximus@gmail.com
