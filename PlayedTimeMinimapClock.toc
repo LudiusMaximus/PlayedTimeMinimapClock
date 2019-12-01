@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 80205
 ## Title: PlayedTimeMinimapClock
 ## Author: LudiusMaximus
 ## Notes: Adds the Broker_PlayedTime info to the Minimap clock tooltip.
