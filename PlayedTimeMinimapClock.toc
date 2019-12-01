@@ -3,7 +3,7 @@
 ## Author: LudiusMaximus
 ## Notes: Adds the Broker_PlayedTime info to the Minimap clock tooltip.
 ## RequiredDeps: Broker_PlayedTime
-## Version: 1.0
+## Version: 1.1
 ## X-Donate: PayPal:ludiusmaximus@gmail.com
 ## X-License: The MIT License (MIT)
 
