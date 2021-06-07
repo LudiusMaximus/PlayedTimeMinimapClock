@@ -1,0 +1,12 @@
+## Interface: 90005
+## Version: @project-version@
+## Title: Played Time Minimap Clock
+## Author: LudiusMaximus
+## Notes: Adds the Broker_PlayedTime info to the Minimap clock tooltip.
+## RequiredDeps: Broker_PlayedTime
+## X-Curse-Project-ID: 332570
+## X-WoWI-ID: 25077
+## X-Donate: PayPal:ludiusmaximus@gmail.com
+## X-License: The MIT License (MIT)
+
+main.lua
