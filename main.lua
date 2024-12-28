@@ -18,6 +18,8 @@ timeManagerFrame:SetScript("OnEvent", function(self, event, ...)
     -- Add PlayedTime to clock button tooltip!
     hooksecurefunc("TimeManagerClockButton_UpdateTooltip", function ()
 
+      if not GameTooltip:IsShown() then return end
+
       GameTooltip:AddLine(" ")
       GameTooltip:AddLine(" ")
 
