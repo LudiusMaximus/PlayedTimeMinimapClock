@@ -6,6 +6,7 @@
 ## RequiredDeps: Broker_PlayedTime
 ## X-Curse-Project-ID: 332570
 ## X-WoWI-ID: 25077
+## X-Wago-ID: 4N2m70GL
 ## X-Donate: PayPal:ludiusmaximus@gmail.com
 ## X-License: The MIT License (MIT)
 
