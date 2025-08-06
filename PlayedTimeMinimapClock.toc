@@ -1,6 +1,7 @@
-## Interface: 110107
+## Interface: 110200
 ## Version: @project-version@
 ## Title: Played Time Minimap Clock
+## IconTexture: interface/icons/spell_nature_timestop.blp
 ## Author: LudiusMaximus
 ## Notes: Adds the Broker_PlayedTime info to the Minimap clock tooltip.
 ## RequiredDeps: Broker_PlayedTime
