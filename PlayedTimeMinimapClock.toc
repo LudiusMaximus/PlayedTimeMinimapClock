@@ -1,4 +1,4 @@
-﻿## Interface: 120007
+﻿## Interface: 120100
 ## Version: @project-version@
 ## Title: Played Time Minimap Clock
 ## IconTexture: interface/icons/spell_nature_timestop.blp
