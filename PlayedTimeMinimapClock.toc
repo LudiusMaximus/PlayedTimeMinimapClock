@@ -1,10 +1,24 @@
-﻿## Interface: 120100
+﻿## Interface: 120100, 50504, 20506, 11509
 ## Version: @project-version@
 ## Title: Played Time Minimap Clock
 ## IconTexture: interface/icons/spell_nature_timestop.blp
 ## Author: LudiusMaximus
+
 ## Notes: Adds the Broker_PlayedTime info to the Minimap clock tooltip.
+## Notes-deDE: Fügt dem Tooltip der Minimap-Uhr die Informationen von Broker_PlayedTime hinzu.
+## Notes-esES: Añade la información de Broker_PlayedTime a la descripción emergente del reloj del minimapa.
+## Notes-esMX: Agrega la información de Broker_PlayedTime a la descripción emergente del reloj del minimapa.
+## Notes-frFR: Ajoute les informations de Broker_PlayedTime à l'infobulle de l'horloge de la mini-carte.
+## Notes-itIT: Aggiunge le informazioni di Broker_PlayedTime al tooltip dell'orologio della minimappa.
+## Notes-ptBR: Adiciona as informações do Broker_PlayedTime à dica de tela do relógio do minimapa.
+## Notes-ruRU: Добавляет информацию Broker_PlayedTime во всплывающую подсказку часов на миникарте.
+## Notes-koKR: 미니맵 시계 툴팁에 Broker_PlayedTime 정보를 추가합니다.
+## Notes-zhCN: 将 Broker_PlayedTime 信息添加到小地图时钟的鼠标提示中。
+## Notes-zhTW: 將 Broker_PlayedTime 資訊加入到小地圖時鐘的滑鼠提示中。
+
 ## RequiredDeps: Broker_PlayedTime
+## Group: Broker_PlayedTime
+
 ## X-Curse-Project-ID: 332570
 ## X-WoWI-ID: 25077
 ## X-Wago-ID: 4N2m70GL
